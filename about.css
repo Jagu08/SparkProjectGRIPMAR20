@@ -1,0 +1,7 @@
+*{
+	background-image: url('uttrakhand.jpeg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	box-sizing: border-box;}
+.ab{color: darkblue; text-align: center; font-weight: bold; padding: 5px;}
